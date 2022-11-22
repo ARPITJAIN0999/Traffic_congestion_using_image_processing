@@ -1,6 +1,6 @@
 # Traffic_congestion_using_image_processing
 
-This is a project in which a pretrained detection model to detect bikes and cars in a frame is used. A video fraame is siezed first and then using these models detect the staring and ending bounding box coordinates.
+This is a project in which a pretrained detection model is used to detect bikes and cars in a frame. A video fraame is siezed first and then using these models detect the starting and ending bounding box coordinates.
 
 bikes.py - This file will only detect two-whellers in an video.
 cars.py - This detects four or more whellers from video.
